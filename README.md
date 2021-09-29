@@ -4,10 +4,16 @@
 ## What you built? 
 
 I learned to compile more complicated C to WASM and display as webpage
-![yay]()
+
+![yay](./png/hello1.png)
+
+![yay](./png/hello2.png)
+
+![yay](./png/hello3.png)
 
 I leanred how to use an API in python
-![yayay]()
+
+![yayay](./png/py_api.png)
 
 ## Who Did What?
 
@@ -19,7 +25,7 @@ bleep bloop blorp
 
 coding is hard
 
-I learned how to compile C to WASM and display it as a webpage. I also learned how to compile a C library into WASM and display it as a webpage. I I also learned how to use an API in python.
+I learned how to compile C to WASM and display it as a webpage. I also learned how to compile a C library into WASM and display it as a webpage. I also learned how to use an API in python. I started learning how to compile python into C, so that I could go from python -> c -> to WASM, but I didn't have the time (sad emoji) 
 
 ## Authors
 
