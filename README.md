@@ -3,23 +3,34 @@
 
 ## What you built? 
 
-TODO: Short description of what you attempted to build
+I learned to compile more complicated C to WASM and display as webpage
+![yay]()
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+I leanred how to use an API in python
+![yayay]()
 
 ## Who Did What?
 
-TODO: who worked on what part?
+me
 
 ## What you learned
 
-TODO: what worked / what didn't work
+bleep bloop blorp
+
+coding is hard
+
+I learned how to compile C to WASM and display it as a webpage. I also learned how to compile a C library into WASM and display it as a webpage. I I also learned how to use an API in python.
 
 ## Authors
 
-TODO: list of authors
+me
 
 ## Acknowledgments
 
-TODO: cite any tutorials followed here
+Tutorials:
+- [Emscripten](https://emscripten.org/docs/getting_started/Tutorial.html#tutorial)
+- [Compiling custom C to WASM](https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_wasm)
+- [Compiling C library to WASM](https://developer.mozilla.org/en-US/docs/WebAssembly/existing_C_to_wasm)
+- [Compiling C library to WASM](https://developers.google.com/web/updates/2018/03/emscripting-a-c-library)
+- [Python API](https://stackoverflow.com/questions/53075939/calling-rest-api-with-an-api-key-using-the-requests-package-in-python)
+- [Python API](https://www.oreilly.com/library/view/web-scraping-with/9781491910283/)
